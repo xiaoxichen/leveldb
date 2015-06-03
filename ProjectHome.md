@@ -1,0 +1,1 @@
+The LevelDB project has moved to https://github.com/google/leveldb
